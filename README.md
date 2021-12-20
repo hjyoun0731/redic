@@ -2,7 +2,7 @@ This repo is a fork of [https://github.com/redis/hiredis][1].
 
 ---
 
-![20211220_155815](https://user-images.githubusercontent.com/55075487/146725244-3a5cc056-1115-438b-8fcc-96de44bdc465.jpg)
+![gopher](https://user-images.githubusercontent.com/55075487/146725496-5c07d4bc-bac9-4856-97a4-19afb3b632b7.jpg)
 
 redic - Bindings for hiredis Redis-client Go library
 
