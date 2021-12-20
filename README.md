@@ -12,4 +12,4 @@ go get -u github.com/hjyoun0731/redic
 
 
 [1]: https://github.com/redis/hiredis
-[2]: https://github.com/hjyoun0731/redic/example/main.go
+[2]: https://github.com/hjyoun0731/redic/blob/master/example/main.go
