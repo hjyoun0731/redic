@@ -15,6 +15,6 @@ func main() {
 	}
 	defer client.Close()
 
-	fmt.Println(client.RedisCommand("set", "hi", "hello"))
-	fmt.Println(client.RedisCommand("get", "hi"))
+	fmt.Println(client.RedisCommand("set", "hi", "hello")) // print : OK
+	fmt.Println(client.RedisCommand("get", "hi"))          // print : hello
 }
