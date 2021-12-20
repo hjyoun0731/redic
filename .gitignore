@@ -1,0 +1,9 @@
+*.so 
+*.a 
+hiredis-test 
+hiredis.pc 
+*.o 
+*.gcda 
+*.gcno 
+*.gcov
+*.dump
