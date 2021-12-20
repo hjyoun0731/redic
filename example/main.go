@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"redic"
+
+	"github.com/hjyoun0731/redic"
 )
 
 func main() {
